@@ -1,0 +1,30 @@
+{
+	"name": "vue-time-input-polyfill",
+	"version": "0.0.0",
+	"description": "An input[type=\"time\"] polyfill component designed to be used in Vue projects *(work in progress)*",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Dan503/vue-time-input-polyfill.git"
+	},
+	"author": "Daniel Tonon",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Dan503/vue-time-input-polyfill/issues"
+	},
+	"homepage": "https://github.com/Dan503/vue-time-input-polyfill#readme",
+	"keywords": [
+		"vue",
+		"time",
+		"input",
+		"polyfill",
+		"component",
+		"IE",
+		"accessible",
+		"accessibility",
+		"a11y"
+	]
+}
